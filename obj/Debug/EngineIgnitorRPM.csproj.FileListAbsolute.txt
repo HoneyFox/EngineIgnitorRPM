@@ -1,0 +1,13 @@
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\EngineIgnitorRPM.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\EngineIgnitorRPM.pdb
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\Assembly-CSharp.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\EngineIgnitor.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\RasterPropMonitor.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\UnityEngine.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\Mono.Cecil.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\TDx.TDxInput.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\bin\Debug\Mono.Security.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\obj\Debug\ResolveAssemblyReference.cache
+E:\EngineIgnitorRPM\EngineIgnitorRPM\obj\Debug\EngineIgnitorRPM.dll
+E:\EngineIgnitorRPM\EngineIgnitorRPM\obj\Debug\EngineIgnitorRPM.pdb
