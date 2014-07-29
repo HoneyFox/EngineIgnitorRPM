@@ -123,7 +123,7 @@ namespace EngineIgnitorRPM
 					foreach (IgnitorResource ir in ignitor.ignitorResources)
 					{
 						List<PartResource> sources = new List<PartResource>();
-						ignitor.part.GetConnectedResources(ir.name.GetHashCode(), sources);
+						ignitor.part.GetConnectedResources(ir.name.GetHashCode(), PartResourceLibrary.Instance.resourceDefinitions[ir.name].resourceFlowMode, sources);
 						double totalAmount = 0.0;
 						foreach (PartResource pr in sources)
 						{
@@ -170,7 +170,7 @@ namespace EngineIgnitorRPM
 					foreach (IgnitorResource ir in ignitor.ignitorResources)
 					{
 						List<PartResource> sources = new List<PartResource>();
-						ignitor.part.GetConnectedResources(ir.name.GetHashCode(), sources);
+						ignitor.part.GetConnectedResources(ir.name.GetHashCode(), PartResourceLibrary.Instance.resourceDefinitions[ir.name].resourceFlowMode, sources);
 						double totalAmount = 0.0;
 						foreach (PartResource pr in sources)
 						{
